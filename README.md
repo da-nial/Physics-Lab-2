@@ -1,5 +1,5 @@
 ### Description
-This repo includes lab instructions (and their answers) of General Physics Lab (II) course, taught in Amirkabir University of Technology, in Spring 2020. 
+This repo includes lab instructions (and complete solutions) for the General Physics Lab (II) course, taught at Amirkabir University of Technology, in Spring 2020. 
 
 | Lab No. | Topic |
 | ------ | ------ |
@@ -11,7 +11,7 @@ This repo includes lab instructions (and their answers) of General Physics Lab (
 | 6 | Capacitors: Polarity + charge & discharge |
 | 7 | Oscilloscope |
 | 8 | Faraday's law of induction |
-| 9 | Measuring earth's magnetic field |
+| 9 | Measuring Earth's magnetic field |
 
 #### For AUT students:
 
